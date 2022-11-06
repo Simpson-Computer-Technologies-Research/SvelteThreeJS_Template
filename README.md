@@ -4,6 +4,7 @@
 
 - git clone https://github.com/Simpson-Computer-Technologies-Research/SvelteThreeJS_Template.git
 - rm -r .git
+- py rename.py
 
 
 # License
